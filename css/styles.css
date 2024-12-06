@@ -674,6 +674,11 @@ h3 {
 .text-input:focus + .input-icon {
     fill: rgb(77, 90, 229);
 }
+
+.comment-box {
+    margin-bottom: 16px;
+}
+
 .usercomment {
     resize: none;
     padding: 8px 16px;
